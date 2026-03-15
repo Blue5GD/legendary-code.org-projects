@@ -2,7 +2,7 @@ A bunch of projects I made in sophomore/freshman year of highschool. Some of the
 
 # LINKS (because the actual files are wonky):
 ## Sophomore Projects
-https://studio.code.org/projects/applab/ScFQU4H8pAZaFy_0r5LxuaGdpPbM21ZxdiKXDrelhDc/view - chess project
+https://studio.code.org/projects/applab/ScFQU4H8pAZaFy_0r5LxuaGdpPbM21ZxdiKXDrelhDc - chess project
 https://studio.code.org/projects/applab/b1bcbca8-1525-4ec7-9692-11f9f9cb5c69 - create task
 https://studio.code.org/projects/applab/debea700-3787-426b-bb14-f5cd90565c10 - driving app
 (Please don't look at these)
